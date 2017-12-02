@@ -22,9 +22,8 @@ var array=[]
   do {
     array[i]=["I love the Beatles!"]
     i++
-    number--
   }
-  while (number<16)
+  while (i<number&& number<15)
 return array
 }
  
