@@ -23,6 +23,6 @@ var array=[]
     array[i]="I love the Beatles!"
     i++
   }
-  while (i<number&& number<15)
+  while (i<=number&& number<15)
 return array
 }
