@@ -26,4 +26,3 @@ var array=[]
   while (i<number&& number<15)
 return array
 }
- 
